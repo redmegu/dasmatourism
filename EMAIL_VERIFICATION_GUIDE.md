@@ -124,10 +124,10 @@ This system implements OTP-based email verification for new user registrations u
 MAIL_MAILER=smtp
 MAIL_HOST=smtp.gmail.com
 MAIL_PORT=587
-MAIL_USERNAME=primokenjivelasquez@gmail.com
-MAIL_PASSWORD=yhan eetb kgla ymoo
+MAIL_USERNAME=your-gmail@gmail.com
+MAIL_PASSWORD=your-gmail-app-password
 MAIL_ENCRYPTION=tls
-MAIL_FROM_ADDRESS=primokenjivelasquez@gmail.com
+MAIL_FROM_ADDRESS=your-gmail@gmail.com
 MAIL_FROM_NAME="Dasmarinas Tourism"
 ```
 

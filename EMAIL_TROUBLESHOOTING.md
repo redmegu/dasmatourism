@@ -107,7 +107,7 @@ ping smtp.gmail.com
 MAIL_MAILER=smtp
 MAIL_HOST=smtp.gmail.com
 MAIL_PORT=587
-MAIL_USERNAME=primokenjivelasquez@gmail.com
+MAIL_USERNAME=your-gmail@gmail.com
 MAIL_PASSWORD="your_app_password_here"
 MAIL_ENCRYPTION=tls
 ```
